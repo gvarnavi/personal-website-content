@@ -8,6 +8,7 @@ categories:
   - research
 slug: materials-science-pedagogy
 comments: true
+thumbnail: /images/research-interest-04.svg
 cover:
   image: /images/research-interest-04-cover.svg
   alternate: Formation of dislocations in an indentation experiment using Lennard-Jones molecular dynamics

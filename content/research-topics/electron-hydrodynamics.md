@@ -8,6 +8,7 @@ categories:
   - research
 slug: electron-hydrodynamics
 comments: true
+thumbnail: /images/research-interest-01.svg
 cover:
   image: /images/research-interest-01-cover.svg
   alternate: Schematic of the emergence of steady-state vortices in anisotropic hydrodynamic flow

@@ -28,7 +28,7 @@ title404 = "Page left as an exercice to the reader"
 [params.assets]
 favicon = "icon.ico"
 customCSS = ["css/custom.css"]
-customJS = ["js/custom.js"]
+customJS = [] # ["js/custom.js"]
 gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]

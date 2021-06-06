@@ -8,6 +8,7 @@ categories:
   - musings
 slug: generative-art
 comments: true
+thumbnail: /images/musings-01.png
 cover:
   image: /images/musings-01-cover.png
   alternate: Bloom Strange Attractor

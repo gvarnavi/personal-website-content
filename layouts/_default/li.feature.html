@@ -1,0 +1,29 @@
+<li class='item'>
+
+  <div class='thumbnail-container' style='height:64px'>
+
+    <div>
+
+      {{ with .Params.thumbnail }}
+        <img src={{ . }} width='64px' style="float:left">
+      {{ else }}
+        <img src="/icon-64.png" width='64px' style="float:left">
+      {{ end }}
+
+    </div>
+
+    <header class='item-header' style='margin-left:72px'>
+      <h3 class='item-title'>
+        <a href='{{ .Permalink | relURL }}'>
+          {{- .Title -}}
+        </a>
+      </h3>
+  
+      <div class='meta'>
+        {{ partial "list/date" . }}
+      </div>
+  
+    </header>
+  </div>
+
+</li>
