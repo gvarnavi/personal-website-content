@@ -7,6 +7,7 @@ authors: ["georgiosvarnavides"]
 categories:
   - research
 slug: spatially-resolved-transport
+comments: true
 cover:
   image: /images/research-interest-03-cover.svg
   alternate: Schematic of the strain-mismatch model for phonon scattering across semi-coherent interfaces

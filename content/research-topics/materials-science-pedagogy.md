@@ -7,6 +7,7 @@ authors: ["georgiosvarnavides"]
 categories:
   - research
 slug: materials-science-pedagogy
+comments: true
 cover:
   image: /images/research-interest-04-cover.svg
   alternate: Formation of dislocations in an indentation experiment using Lennard-Jones molecular dynamics

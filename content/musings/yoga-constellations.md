@@ -7,6 +7,7 @@ authors: ["georgiosvarnavides"]
 categories:
   - musings
 slug: yoga-poses-constellations
+comments: true
 cover:
   image: /images/musings-02-cover.png
   alternate: Yoga post constellation projected on the night sky

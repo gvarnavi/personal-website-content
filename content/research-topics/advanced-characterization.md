@@ -7,6 +7,7 @@ authors: ["georgiosvarnavides"]
 categories:
   - research
 slug: advanced-characterization
+comments: true
 cover:
   image: /images/research-interest-02-cover.png
   alternate: gold "islands" deposited on a layer of two-dimensional molybdenum sulfide, imaged using HAADF and iDPC STEM techniques

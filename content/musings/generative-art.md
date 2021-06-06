@@ -7,6 +7,7 @@ authors: ["georgiosvarnavides"]
 categories:
   - musings
 slug: generative-art
+comments: true
 cover:
   image: /images/musings-01-cover.png
   alternate: Bloom Strange Attractor

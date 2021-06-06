@@ -7,6 +7,7 @@ authors: ["georgiosvarnavides"]
 categories:
   - research
 slug: electron-hydrodynamics
+comments: true
 cover:
   image: /images/research-interest-01-cover.svg
   alternate: Schematic of the emergence of steady-state vortices in anisotropic hydrodynamic flow
