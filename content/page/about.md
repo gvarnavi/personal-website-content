@@ -2,7 +2,7 @@
 
 title: About
 description: Who am I?
-menu: main
+menu: [main, sidebar]
 weight: -210
 
 ---

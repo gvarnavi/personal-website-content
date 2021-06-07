@@ -2,8 +2,7 @@
 
 title: Publications
 linkTitle: Publications
-menu:
-  sidebar:
+menu: sidebar
 weight: -245
 slug: publications
 
