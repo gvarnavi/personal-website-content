@@ -113,9 +113,7 @@ searchApiKey = ""
 
 [taxonomies]
 author = "authors"
-category = "categories"
-series = "series"
-tag = "tags"
+publication = "publications"
 
 [permalinks]
 page = "/:slug/"

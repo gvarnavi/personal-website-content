@@ -1,0 +1,23 @@
+{{ partial "header" . }}
+
+{{ partial "header/header" . }}
+
+{{ if .Content }}
+<div class='entry'>
+  {{ partial "entry/content" . }}
+</div>
+{{ end }}
+
+<div class='container list-container'>
+  <ul class='list'>
+    {{ range .Pages }}
+      {{ .Render "li.pub" }}
+    {{ end }}
+  </ul>
+
+  <p> <br />
+  &#8314; denotes equal contribution </p>
+
+</div>
+
+{{ partial "footer" . }}

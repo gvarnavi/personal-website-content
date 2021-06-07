@@ -1,0 +1,30 @@
+{{ partial "header" . }}
+
+<header class='header'>
+  <div class='container sep-after'>
+    <div class='header-info'>
+    <h1 class='title'>
+	    {{- .Params.pubtitle -}}
+    </h1>
+    </div>
+  </div>
+</header>
+
+{{ if .Content }}
+<div class='entry'>
+  {{ partial "entry/content" . }}
+</div>
+{{ end }}
+
+<div class='container entry-content'>
+
+  <p> {{ .Params.byline | markdownify}} 
+  <br /> {{ partial "list/date" . }} <a href='{{ .Params.doi }}' target="_blank"> Publisher's version</a>
+  </p>
+
+  <h4> Abstract </h4>
+  <p> {{ .Params.abstract }} </p>
+
+</div>
+
+{{ partial "footer" . }}
