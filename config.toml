@@ -23,7 +23,7 @@ defaultContentLanguage = "en"
 
 [params.info]
 description = "Researcher | Aspiring cat herder"
-title404 = "Page left as an exercice to the reader"
+title404 = "Page left as an exercise to the reader"
 
 [params.assets]
 favicon = "icon.ico"
