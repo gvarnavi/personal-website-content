@@ -31,3 +31,4 @@ jobs:
           personal_token: ${{ secrets.PERSONAL_TOKEN }}
           external_repository: gvarnavi/gvarnavi.github.io
           publish_dir: ./public
+          cname: gvarnavides.com
