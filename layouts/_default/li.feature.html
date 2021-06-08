@@ -3,13 +3,7 @@
   <div class='thumbnail-container' style='height:64px'>
 
     <div>
-
-      {{ with .Params.thumbnail }}
-        <img src={{ . }} width='64px' style="float:left">
-      {{ else }}
-        <img src="/icon-64.png" width='64px' style="float:left">
-      {{ end }}
-
+      <img src= '{{ ( or .Params.thumbnail "favicon-64x64.png") | relURL}}' width='64px' style="float:left">
     </div>
 
     <header class='item-header' style='margin-left:72px'>
