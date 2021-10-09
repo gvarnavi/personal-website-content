@@ -6,9 +6,11 @@ title: Electron Hydrodynamics
 authors: ["georgiosvarnavides"]
 publications:
   - Nat Commun 11, 4710 (2020)
-  - arXiv:2009.04477 (2020)
-  - arXiv:2012.09207 (2020)
+  - Nat Phys, 1745-2481 (2021)
+  - Phys Rev Mater 5, L091202 (2021)
   - arXiv:2106.00697 (2021)
+  - Nat Commun 12, 4799 (2021)
+  - arxiv:2109.00550 (2021)
 slug: electron-hydrodynamics
 comments: true
 thumbnail: /images/research-interest-01.svg
@@ -20,8 +22,8 @@ cover:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magnis dis parturient montes nascetur ridiculus mus mauris vitae. Consectetur adipiscing elit ut aliquam purus sit amet luctus. Non diam phasellus vestibulum lorem sed risus ultricies tristique. Purus gravida quis blandit turpis cursus in. Enim nunc faucibus a pellentesque sit amet porttitor eget. Tellus elementum sagittis vitae et leo. Interdum velit laoreet id donec ultrices tincidunt arcu non. Posuere ac ut consequat semper viverra. Id diam vel quam elementum pulvinar etiam. Lectus mauris ultrices eros in cursus turpis. Ipsum dolor sit amet consectetur. Pulvinar sapien et ligula ullamcorper malesuada proin. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. At lectus urna duis convallis convallis tellus id. In hac habitasse platea dictumst quisque sagittis purus. Elementum sagittis vitae et leo duis ut diam. Tellus in hac habitasse platea.
+In most conductors at room-temperature, electron collisions are akin to billiard balls, resulting in the macroscopic observation of diffusive flow (Ohm's "law").
+Recently, spatially-resolved transport measurements have revealed electrons in strongly-interacting materials can behave akin to classical fluids, confirming theoretical predictions over fifty years old.
 
-Elementum curabitur vitae nunc sed velit. Duis convallis convallis tellus id interdum velit laoreet id donec. Etiam sit amet nisl purus in. Lectus vestibulum mattis ullamcorper velit sed. A iaculis at erat pellentesque adipiscing commodo elit at. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est. Est ante in nibh mauris cursus mattis. Eu nisl nunc mi ipsum faucibus vitae. Pharetra et ultrices neque ornare aenean euismod. Et magnis dis parturient montes nascetur. Iaculis nunc sed augue lacus viverra vitae. Diam maecenas sed enim ut. Eget felis eget nunc lobortis mattis. Nisl condimentum id venenatis a condimentum. Viverra suspendisse potenti nullam ac tortor. Dui sapien eget mi proin sed libero enim. Odio eu feugiat pretium nibh ipsum consequat nisl vel pretium. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium nibh.
-
-^placeholder
+I study these "hydrodynamic" electron flows across various length scales, from their microscopic origins, to their macroscopic observables.
+I was recently part of a team which [imaged these flows in a 3D conductor for the first time](https://www.seas.harvard.edu/news/2021/09/first-glimpse-hydrodynamic-electron-flow-3d-materials), corroborating a newly-proposed electron interaction mechanism by us mediated by lattice vibrations.

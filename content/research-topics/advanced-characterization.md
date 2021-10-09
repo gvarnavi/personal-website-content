@@ -6,7 +6,7 @@ title: Advanced Characterization
 authors: ["georgiosvarnavides"]
 publications:
   - Nat Commun 12, 1290 (2021)
-  - arXiv:2104.08978 (2021)
+  - Sci Adv 7, eabi6699 (2021)
 slug: advanced-characterization
 comments: true
 thumbnail: /images/research-interest-02.png
@@ -18,8 +18,11 @@ cover:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magnis dis parturient montes nascetur ridiculus mus mauris vitae. Consectetur adipiscing elit ut aliquam purus sit amet luctus. Non diam phasellus vestibulum lorem sed risus ultricies tristique. Purus gravida quis blandit turpis cursus in. Enim nunc faucibus a pellentesque sit amet porttitor eget. Tellus elementum sagittis vitae et leo. Interdum velit laoreet id donec ultrices tincidunt arcu non. Posuere ac ut consequat semper viverra. Id diam vel quam elementum pulvinar etiam. Lectus mauris ultrices eros in cursus turpis. Ipsum dolor sit amet consectetur. Pulvinar sapien et ligula ullamcorper malesuada proin. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. At lectus urna duis convallis convallis tellus id. In hac habitasse platea dictumst quisque sagittis purus. Elementum sagittis vitae et leo duis ut diam. Tellus in hac habitasse platea.
+I have long been fascinated by materials characterization, and in-particular the ability to image atoms and nanoscale phenomena at high spatial resolution.
+In many scenarios, the best way to do that is using transmission electron microscopy (TEM).
 
-Elementum curabitur vitae nunc sed velit. Duis convallis convallis tellus id interdum velit laoreet id donec. Etiam sit amet nisl purus in. Lectus vestibulum mattis ullamcorper velit sed. A iaculis at erat pellentesque adipiscing commodo elit at. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est. Est ante in nibh mauris cursus mattis. Eu nisl nunc mi ipsum faucibus vitae. Pharetra et ultrices neque ornare aenean euismod. Et magnis dis parturient montes nascetur. Iaculis nunc sed augue lacus viverra vitae. Diam maecenas sed enim ut. Eget felis eget nunc lobortis mattis. Nisl condimentum id venenatis a condimentum. Viverra suspendisse potenti nullam ac tortor. Dui sapien eget mi proin sed libero enim. Odio eu feugiat pretium nibh ipsum consequat nisl vel pretium. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium nibh.
+[//]: # ( {{< youtube fQJYuTpK8Fs>}} )
 
-^placeholder
+In my work, I have collaborated with experimentalists to [directly image moir&#232; superlattices at the interface of 2D/3D materials](https://news.mit.edu/2021/2d-3d-materials-electronic-microscope-0226) and investigate [phonon localization at the interface between two 2D materials](https://www.seas.harvard.edu/news/2021/10/pinpointing-exact-positions-atoms-2d-materials) with high-resolution (S)TEM-based techniques.
+
+Recently, I've been thinking about how we can image the induced magnetic fields arising in [electron hydrodynamic flows]({{< ref "/research-topics/electron-hydrodynamics" >}}) with near atomic resolution, using a recently-developed TEM-based technique called 'Vector-field electron tomography' and electron ptychography.

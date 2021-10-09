@@ -8,7 +8,7 @@ categories:
   - musings
 slug: yoga-poses-constellations
 comments: true
-# thumbnail: /images/musings-02.png
+thumbnail: /images/musings-02.png
 cover:
   image: /images/musings-02-cover.png
   alternate: Yoga post constellation projected on the night sky
@@ -17,8 +17,15 @@ cover:
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Magnis dis parturient montes nascetur ridiculus mus mauris vitae. Consectetur adipiscing elit ut aliquam purus sit amet luctus. Non diam phasellus vestibulum lorem sed risus ultricies tristique. Purus gravida quis blandit turpis cursus in. Enim nunc faucibus a pellentesque sit amet porttitor eget. Tellus elementum sagittis vitae et leo. Interdum velit laoreet id donec ultrices tincidunt arcu non. Posuere ac ut consequat semper viverra. Id diam vel quam elementum pulvinar etiam. Lectus mauris ultrices eros in cursus turpis. Ipsum dolor sit amet consectetur. Pulvinar sapien et ligula ullamcorper malesuada proin. Ut diam quam nulla porttitor massa id neque aliquam vestibulum. Nisi vitae suscipit tellus mauris a diam maecenas sed enim. At lectus urna duis convallis convallis tellus id. In hac habitasse platea dictumst quisque sagittis purus. Elementum sagittis vitae et leo duis ut diam. Tellus in hac habitasse platea.
+At its first meeting in 1922, the International Astronomical Union (IAU), officially adopted the list of 88 constellations that we use today.
+These include 14 men and women, 9 birds, two insects, 19 land animals, 10 water creatures, two centaurs, one head of hair, a serpent, a dragon, a flying horse, a river and 29 inanimate objects. 
+As many of us have (frustratingly) witnessed first hand while star-gazing - most of these bear little resemblance to their supposed figures. 
+Instead, it is more likely that the ancient constellation-makers meant them to be symbolic, a kind of celestial "Hall of Fame" for their favorite animals or heroes.
 
-Elementum curabitur vitae nunc sed velit. Duis convallis convallis tellus id interdum velit laoreet id donec. Etiam sit amet nisl purus in. Lectus vestibulum mattis ullamcorper velit sed. A iaculis at erat pellentesque adipiscing commodo elit at. Viverra tellus in hac habitasse platea dictumst vestibulum rhoncus est. Est ante in nibh mauris cursus mattis. Eu nisl nunc mi ipsum faucibus vitae. Pharetra et ultrices neque ornare aenean euismod. Et magnis dis parturient montes nascetur. Iaculis nunc sed augue lacus viverra vitae. Diam maecenas sed enim ut. Eget felis eget nunc lobortis mattis. Nisl condimentum id venenatis a condimentum. Viverra suspendisse potenti nullam ac tortor. Dui sapien eget mi proin sed libero enim. Odio eu feugiat pretium nibh ipsum consequat nisl vel pretium. Aliquam nulla facilisi cras fermentum odio eu feugiat pretium nibh.
+This begs two questions I sought to answer with this project:
 
-^placeholder
+1. Can we 'do better' now with Wolfram Language's `StarData[]` curated data and Machine Learning functionality?
+2. What if the ancient constellation-makers were slightly more creative? 
+Say they looked up at the sky, and only saw yoga-poses!
+
+This old [post of mine on Wolfram Community](https://community.wolfram.com/groups/-/m/t/1207400) explores this silly question. 
