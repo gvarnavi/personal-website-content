@@ -6,7 +6,7 @@ title: Electron Hydrodynamics
 authors: ["georgiosvarnavides"]
 publications:
   - Nat Commun 11, 4710 (2020)
-  - Nat Phys, 1745-2481 (2021)
+  - Nat Phys, 17, 1216-1220 (2021)
   - Phys Rev Mater 5, L091202 (2021)
   - arXiv:2106.00697 (2021)
   - Nat Commun 12, 4799 (2021)

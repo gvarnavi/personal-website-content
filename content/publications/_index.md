@@ -8,4 +8,4 @@ slug: publications
 
 ---
 
-For a complete list of publications, please see my [Google Scholar profile](https://scholar.google.com/citatiions?user=zWvoz5YAAAAJ&hl=en).
+For a complete list of publications, please see my [Google Scholar profile](https://scholar.google.com/citations?user=zWvoz5YAAAAJ&hl=en).

@@ -1,9 +1,9 @@
 ---
 
 date:  2021-09-16
-title: "Nat Phys, 1745-2481 (2021)"
+title: "Nat Phys, 17, 1216–1220 (2021)"
 pubtitle: "Imaging phonon-mediated hydrodynamic flow in WTe2"
-citation: "Nat Phys, 1745-2481 (2021)"
+citation: "Nat Phys, 17, 1216-1220 (2021)"
 byline: "Uri Vool&#8314;, Assaf Hamo&#8314;, **Georgios Varnavides&#8314;**, Yaxian Wang&#8314;, Tony X. Zhou, Nitesh Kumar, Yuliya Dovzhenko, Ziwei Qiu, Christina A. Garcia, Andrew T. Pierce, Johannes Gooth, Polina Anikeeva, Claudia Felser, Prineha Narang, Amir Yacoby"
 
 doi: "https://www.nature.com/articles/s41567-021-01341-w"
