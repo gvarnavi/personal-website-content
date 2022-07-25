@@ -12,7 +12,7 @@ emoji: true
 ## :wave: Hi there!
 My name is Georgios, which I've been told sounds uncannily similar to how one would pronounce "George(ous)", but I go by George.
 
-I'm a graduate student researcher working primarily in condensed-matter physics and materials science, but I'm easily distracted so you might see various (seemingly) unrelated projects and musings here.
+I'm a postdoctoral Miller research fellow working primarily in materials science and condensed-matter physics, but I'm easily distracted so you might see various (seemingly) unrelated projects and musings here.
 
 Feel free to look around and if anything catches your eye, or you think we could work together, please leave a comment or drop me a line.
 
