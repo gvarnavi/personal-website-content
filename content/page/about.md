@@ -6,10 +6,10 @@ weight: -210
 
 ---
 
-After completing my B.S. in Materials Science and Engineering at MIT in 2017, I started my graduate studies in the department of Materials Science at MIT, where I am co-advised by Professors Prineha Narang and Polina Anikeeva.
+I'm originally from Cyprus where I grew up and studied before moving to the US to obtain my BS in materials science & engineering and BS in civil & environmental engineering from MIT in 2017.
+Enamored with the Boston weather, I decided to stay at MIT to pursue my graduate studies in the department of Materials Science, where I recently defended my thesis entitled "Electron Hydrodynamics in Crystalline Solids".
 
-My research focuses on non-equilibrium transport in interacting condensed matter systems. 
-Lately, I've been fascinated by the emergence of electron "hydrodynamic" behavior in ultra-clean (semi-)metals and developing new imaging modalities with which to observe the resulting non-uniform current densities. 
+Currently, I'm a postdoctoral Miller research fellow at the University of California, Berkeley -- co-hosted by Prof. Mary Scott in MSE and Prof. Joel Moore in Physics -- where I'm developing new computational imaging modalities to observe current densities in anisotropic electron fluids with high spatial resolution using a transmission electron microscope.
 
-When I'm not drawing funny interaction diagrams, I enjoys camping, teaching generative art, and singing along to musical theater YouTube videos.
+When I don't have my science cap on, I enjoy camping, teaching generative art, and singing along to musical theater YouTube videos.
 
