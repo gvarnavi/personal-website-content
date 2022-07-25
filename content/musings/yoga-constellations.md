@@ -22,10 +22,9 @@ These include 14 men and women, 9 birds, two insects, 19 land animals, 10 water 
 As many of us have (frustratingly) witnessed first hand while star-gazing - most of these bear little resemblance to their supposed figures. 
 Instead, it is more likely that the ancient constellation-makers meant them to be symbolic, a kind of celestial "Hall of Fame" for their favorite animals or heroes.
 
-This begs two questions I sought to answer with this project:
+This begs two questions I sought to answer with this old [post of mine on Wolfram Community](https://community.wolfram.com/groups/-/m/t/1207400):
 
 1. Can we 'do better' now with Wolfram Language's `StarData[]` curated data and Machine Learning functionality?
 2. What if the ancient constellation-makers were slightly more creative? 
 Say they looked up at the sky, and only saw yoga-poses!
 
-This old [post of mine on Wolfram Community](https://community.wolfram.com/groups/-/m/t/1207400) explores this silly question. 
