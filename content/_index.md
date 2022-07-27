@@ -74,11 +74,33 @@ Feel free to look around and if anything catches your eye, or you think we could
 
 <div class="grid-row">
   <div class="grid-column">
+    <a href="musings/counting-digits-of-pi/">
+      <div class="img-container">
+        <img src="images/musings-04.png" class="img-image">
+        <div class="img-overlay">
+          <div class="img-text">Counting Digits of Pi</div>
+        </div>
+      </div>
+    </a>
+  </div>
+  <div class="grid-column">
     <a href="musings/generative-art/">
       <div class="img-container">
         <img src="images/musings-01.png" class="img-image">
         <div class="img-overlay">
           <div class="img-text">Generative Art</div>
+        </div>
+      </div>
+    </a>
+  </div>
+</div>
+<div class="grid-row">
+  <div class="grid-column">
+    <a href="musings/geographic-map-distortions/">
+      <div class="img-container">
+        <img src="images/musings-03.png" class="img-image">
+        <div class="img-overlay">
+          <div class="img-text">Geographic Map Distortions</div>
         </div>
       </div>
     </a>
