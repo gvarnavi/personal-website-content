@@ -1,7 +1,7 @@
 ---
 
 date: 2021-06-04T14:00:00+06:00
-lastmod: 2021-06-04T14:00:00+06:00
+lastmod: 2022-07-27T14:00:00+06:00
 title: Electron Hydrodynamics
 authors: ["georgiosvarnavides"]
 publications:
@@ -25,5 +25,7 @@ cover:
 In most conductors at room-temperature, electron collisions are akin to billiard balls, resulting in the macroscopic observation of diffusive flow (Ohm's "law").
 Recently, spatially-resolved transport measurements have revealed electrons in strongly-interacting materials can behave akin to classical fluids, confirming theoretical predictions over fifty years old.
 
-I study these "hydrodynamic" electron flows across various length scales, from their microscopic origins, to their macroscopic observables.
-I was recently part of a team which [imaged these flows in a 3D conductor for the first time](https://www.seas.harvard.edu/news/2021/09/first-glimpse-hydrodynamic-electron-flow-3d-materials), corroborating a newly-proposed electron interaction mechanism by us mediated by lattice vibrations.
+I study these "hydrodynamic" electron flows across various length scales, from their microscopic origins, to mesoscopic finite-size effects, and to their macroscopic observables.
+Recently, I was part of a team which [imaged these flows in a 3D conductor for the first time](https://www.seas.harvard.edu/news/2021/09/first-glimpse-hydrodynamic-electron-flow-3d-materials), corroborating a newly-proposed electron interaction mechanism mediated by lattice vibrations.
+
+Currently, as a postdoctoral Miller research fellow, I'm developing computational imaging techniques to correlate such non-uniform current densities with the underlying structure, opening the door to investigating the role of structure and defects in designing near-dissipation-less electronics and inviting questions like "does current flow around defects in materials similar to how rivers flow past pebbles? If so, can we engineer them to minimize thermal dissipation?"

@@ -11,5 +11,5 @@ Enamored with the Boston weather, I decided to stay at MIT to pursue my graduate
 
 Currently, I'm a postdoctoral Miller research fellow at the University of California, Berkeley -- co-hosted by Prof. Mary Scott in MSE and Prof. Joel Moore in Physics -- where I'm developing new computational imaging modalities to observe current densities in anisotropic electron fluids with high spatial resolution using a transmission electron microscope.
 
-When I don't have my science cap on, I enjoy camping, teaching generative art, and singing along to musical theater YouTube videos.
+When I don't have my science cap on, I enjoy camping, teaching generative art, and singing along to musical theater videos.
 
