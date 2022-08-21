@@ -12,7 +12,7 @@ emoji: true
 ## :wave: Hi there!
 My name is Georgios, which I've been told sounds uncannily similar to how one would pronounce "George(ous)", but I go by George.
 
-I'm a postdoctoral Miller research fellow working primarily in materials science and condensed-matter physics, but I'm easily distracted so you might see various (seemingly) unrelated projects/musings here.
+I'm a postdoctoral [Miller research fellow](https://miller.berkeley.edu/fellowship/members/current-miller-fellows) working primarily in materials science and condensed-matter physics, but I'm easily distracted so you might see various (seemingly) unrelated projects/musings here.
 
 Feel free to look around and if anything catches your eye, or you think we could work together, please leave a comment or drop me a line.
 

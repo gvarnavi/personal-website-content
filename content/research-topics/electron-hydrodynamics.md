@@ -9,8 +9,8 @@ publications:
   - Nat Phys, 17, 1216-1220 (2021)
   - Phys Rev Mater 5, L091202 (2021)
   - Nat Commun 12, 4799 (2021)
-  - arxiv:2109.00550 (2021)
   - Phys Rev Mater 6, 045002 (2022)
+  - Phys Rev Mater 6, 083802 (2022)
 slug: electron-hydrodynamics
 comments: true
 thumbnail: /images/research-interest-01.svg
@@ -28,4 +28,4 @@ Recently, spatially-resolved transport measurements have revealed electrons in s
 I study these "hydrodynamic" electron flows across various length scales, from their microscopic origins, to mesoscopic finite-size effects, and to their macroscopic observables.
 Recently, I was part of a team which [imaged these flows in a 3D conductor for the first time](https://www.seas.harvard.edu/news/2021/09/first-glimpse-hydrodynamic-electron-flow-3d-materials), corroborating a newly-proposed electron interaction mechanism mediated by lattice vibrations.
 
-Currently, as a postdoctoral Miller research fellow, I'm developing computational imaging techniques to correlate such non-uniform current densities with the underlying structure, opening the door to investigating the role of structure and defects in designing near-dissipation-less electronics and inviting questions like "does current flow around defects in materials similar to how rivers flow past pebbles? If so, can we engineer them to minimize thermal dissipation?"
+Currently, as a postdoctoral [Miller research fellow](https://miller.berkeley.edu/fellowship/members/current-miller-fellows), I'm developing computational imaging techniques to correlate such non-uniform current densities with the underlying structure, opening the door to investigating the role of structure and defects in designing near-dissipation-less electronics and inviting questions like "does current flow around defects in materials similar to how rivers flow past pebbles? If so, can we engineer them to minimize thermal dissipation?"
