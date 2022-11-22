@@ -16,6 +16,7 @@ I'm a postdoctoral [Miller research fellow](https://miller.berkeley.edu/fellowsh
 
 Feel free to look around and if anything catches your eye, or you think we could work together, please leave a comment or drop me a line.
 
+If you're just here for my CV, you can see it [here](/CV/CV.html) or download a printable version [here](/CV/CV.pdf).
 
 ## Research Interests
 
