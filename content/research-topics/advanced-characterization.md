@@ -12,17 +12,15 @@ comments: true
 thumbnail: /images/research-interest-02.png
 cover:
   image: /images/research-interest-02-cover.png
-  alternate: gold "islands" deposited on a layer of two-dimensional molybdenum sulfide, imaged using HAADF and iDPC STEM techniques
-  caption: Gold "islands" deposited on a layer of two-dimensional molybdenum sulfide, imaged using HAADF and iDPC STEM techniques, showing the (apparent) 18A and 32A moire cells respectively 
+  alternate: gold "islands" deposited on a layer of two-dimensional molybdenum disulfide, imaged using HAADF and iDPC STEM techniques
+  caption: Gold "islands" deposited on a layer of two-dimensional molybdenum disulfide, imaged using HAADF and iDPC STEM techniques, showing the (apparent) 18A and 32A moire cells respectively.
   style: full
 
 ---
 
 I have long been fascinated by materials characterization, and in-particular the ability to image atoms and nanoscale phenomena at high spatial resolution.
-In many scenarios, the best way to do that is using transmission electron microscopy (TEM).
+One of the most versatile instruments to achieve this is the scanning transmission electron microscope (STEM).
 
-[//]: # ( {{< youtube fQJYuTpK8Fs>}} )
+In my PhD work, I have collaborated with experimentalists to [directly image moir&#232; superlattices at the interface of 2D/3D materials](https://news.mit.edu/2021/2d-3d-materials-electronic-microscope-0226) and investigate [phonon localization at the interface between two 2D materials](https://www.seas.harvard.edu/news/2021/10/pinpointing-exact-positions-atoms-2d-materials) with high-resolution STEM-based techniques.
 
-In my PhD work, I have collaborated with experimentalists to [directly image moir&#232; superlattices at the interface of 2D/3D materials](https://news.mit.edu/2021/2d-3d-materials-electronic-microscope-0226) and investigate [phonon localization at the interface between two 2D materials](https://www.seas.harvard.edu/news/2021/10/pinpointing-exact-positions-atoms-2d-materials) with high-resolution (S)TEM-based techniques.
-
-Currently, as a postdoctoral [Miller research fellow](https://miller.berkeley.edu/fellowship/members/current-miller-fellows), I'm developing computational imaging techniques to image the induced magnetic fields arising in [hydrodynamic electron flows]({{< ref "/research-topics/electron-hydrodynamics" >}}) with nanoscale resolution, using a recently-developed TEM-based technique called 'Vector-field electron tomography' and electron ptychography.
+Currently, as a postdoctoral [Miller research fellow](https://miller.berkeley.edu/fellowship/members/current-miller-fellows), I'm developing computational imaging techniques to image the induced magnetic fields arising in [hydrodynamic electron flows]({{< ref "/research-topics/electron-hydrodynamics" >}}) with nanoscale resolution, by developing electron ptychography algorithms to [jointly-reconstruct the electrostatic and magnetic-vector potentials](https://github.com/gvarnavi/abTEM/blob/657806f2308c745fd8a502ce8ed63c57112d2e67/examples/reconstruction/02.PIE_simultaneous_electrostatic-magnetic_reconstruction.ipynb).

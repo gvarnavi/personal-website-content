@@ -17,7 +17,7 @@ thumbnail: /images/research-interest-01.svg
 cover:
   image: /images/research-interest-01-cover.svg
   alternate: Schematic of the emergence of steady-state vortices in anisotropic hydrodynamic flow
-  caption: Difference in steady-state streamplot between isotropic and square-symmetry viscosity tensors in a corbino disk geometry, highlighting the emergence of steady-state vortices 
+  caption: Difference in steady-state streamplot between isotropic and square-symmetry viscosity tensors in a corbino disk geometry, highlighting the emergence of steady-state vortices. 
   style: full
 
 ---

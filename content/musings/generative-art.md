@@ -12,13 +12,13 @@ thumbnail: /images/musings-01.png
 cover:
   image: /images/musings-01-cover.png
   alternate: Bloom Strange Attractor
-  caption: Nonlinear Strange Attractor with 5-fold symmetry (see [[1]](https://gvarnavides.com/generative-art-workshop-website/))
+  caption: Nonlinear Strange Attractor with 5-fold symmetry.
   style: full
 
 ---
 
 Together with some friends in the DMSE department, I've been teaching a generative art workshop during MIT's Independent Activity Period (IAP) for the past 5 years.
-IAP 2022 was the fifth\* iteration of the workshop (previously taught in 2017 and 2018 with Emma Vargo, 2020 with Amina Matt, Jovana and Nina Andrejevic,  and 2021 with Jovana and Nina).
+IAP 2022 was the fifth\* iteration of the workshop (previously taught in 2017 and 2018 with Emma Vargo, 2020 with Amina Matt, Jovana and Nina Andrejevic, and 2021 with Jovana and Nina).
 
 The 4-day workshop walks through python and Wolfram Language notebooks, covering the following broad topics:  
 - Geometric Fractals \& L-Systems

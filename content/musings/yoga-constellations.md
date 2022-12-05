@@ -12,7 +12,7 @@ thumbnail: /images/musings-02.png
 cover:
   image: /images/musings-02-cover.png
   alternate: Yoga post constellation projected on the night sky
-  caption: Convolutional neural network classified yoga pose constellation (see [[1]](https://community.wolfram.com/groups/-/m/t/1207400))
+  caption: Yoga pose constellation, classified using a convolutional neural network.
   style: full
 
 ---
@@ -24,7 +24,7 @@ Instead, it is more likely that the ancient constellation-makers meant them to b
 
 This begs two questions I sought to answer with this old [post of mine on Wolfram Community](https://community.wolfram.com/groups/-/m/t/1207400):
 
-1. Can we 'do better' now with Wolfram Language's `StarData[]` curated data and Machine Learning functionality?
+1. Can we 'do better' with Wolfram Language's `StarData[]` curated data and Machine Learning functionality?
 2. What if the ancient constellation-makers were slightly more creative? 
 Say they looked up at the sky, and only saw yoga-poses!
 

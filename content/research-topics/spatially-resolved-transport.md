@@ -13,7 +13,7 @@ thumbnail: /images/research-interest-03.svg
 cover:
   image: /images/research-interest-03-cover.svg
   alternate: Schematic of the strain-mismatch model for phonon scattering across semi-coherent interfaces
-  caption: Strain Mismatch Model schematic. Black (White) contours illustrate contours of constant compression (tension) 
+  caption: Strain Mismatch Model schematic. Black (White) contours illustrate contours of constant compression (tension). 
   style: full
 
 ---

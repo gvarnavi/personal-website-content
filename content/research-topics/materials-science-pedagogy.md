@@ -10,7 +10,7 @@ thumbnail: /images/research-interest-04.svg
 cover:
   image: /images/research-interest-04-cover.svg
   alternate: Formation of dislocations in an indentation experiment using Lennard-Jones molecular dynamics
-  caption: Snapshot of an indentation experiment simulation of hexagonally-packed particles interacting via the Lennard-Jones interatomic potential. Lines of higher energy concentration signal the onset of dislocations forming
+  caption: Snapshot of an indentation experiment simulation of hexagonally-packed particles interacting via the Lennard-Jones interatomic potential. Lines of higher energy concentration signal the onset of dislocations forming.
   style: full
 
 ---
