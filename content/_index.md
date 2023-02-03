@@ -75,11 +75,11 @@ If you're just here for my CV, you can see it [here](/CV/CV.html), or download a
 
 <div class="grid-row">
   <div class="grid-column">
-    <a href="musings/counting-digits-of-pi/">
+    <a href="musings/tilings-and-projection-set-algorithms/">
       <div class="img-container">
-        <img src="images/musings-04.png" class="img-image">
+        <img src="images/musings-05.png" class="img-image">
         <div class="img-overlay">
-          <div class="img-text">Counting Digits of Pi</div>
+          <div class="img-text">Tilings and Projection Set Algorithms</div>
         </div>
       </div>
     </a>
@@ -97,11 +97,11 @@ If you're just here for my CV, you can see it [here](/CV/CV.html), or download a
 </div>
 <div class="grid-row">
   <div class="grid-column">
-    <a href="musings/geographic-map-distortions/">
+    <a href="musings/counting-digits-of-pi/">
       <div class="img-container">
-        <img src="images/musings-03.png" class="img-image">
+        <img src="images/musings-04.png" class="img-image">
         <div class="img-overlay">
-          <div class="img-text">Geographic Map Distortions</div>
+          <div class="img-text">Counting Digits of Pi</div>
         </div>
       </div>
     </a>
