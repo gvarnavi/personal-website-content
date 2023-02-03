@@ -80,7 +80,7 @@ For the sake of brevity, we once again omit most implementation details, but bri
 As such, the first constraint and thus projection operator is the same as above.
 - The target-image-constistency constraint we choose is also fairly straightforward: we simply weigh the current iteration vector at each pixel according to a Gaussian kernel centered on the tile's color value minus the target image color value at that pixel.
 - The tiling constraint projection is perhaps less obvious.
-Denote the set of {{< katex inline >}} M {{< /katex >}} topological constraints acting on a vectorized version of our array {{< katex inline >}} \vec{x} = \text{vec}\left(Q(i,j,t)\right) {{< /katex >}}, using the {{< katex inline >}} \left(M,M\right) {{< /katex >}} matrix {{< katex inline >}} C {{< /katex >}}, such that {{< katex inline >}} C \cdot \vec{x} = 0 {{< /katex >}}.
+Denote the set of {{< katex inline >}} M {{< /katex >}} topological constraints acting on a vectorized version of our array {{< katex inline >}} \vec{x} = \text{vec}\left(Q(i,j,t)\right) {{< /katex >}}, using the {{< katex inline >}} \left(M,n \times m \times L\right) {{< /katex >}} matrix {{< katex inline >}} C {{< /katex >}}, such that {{< katex inline >}} C \cdot \vec{x} = 0 {{< /katex >}}.
 The [orthogonal projector](https://en.wikipedia.org/wiki/Moore%E2%80%93Penrose_inverse#Projectors) onto the nullspace of the topological constraints is therefore given by:
 {{< katex >}}
 P_{C}(\vec{x}) = \left(\mathbb{I} - C^+\cdot C \right)\cdot \vec{x},
