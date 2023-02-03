@@ -55,7 +55,7 @@ SolveSudokuPuzzle[known_SparseArray] := Module[{z,sudokuConstraints,vars,knownCo
 ]
 ```
 
-Back to projection set algorithms, [Veit Elser and co-authors showed](https://www.pnas.org/doi/10.1073/pnas.0606359104) that that the Sudoku constraints can be interpreted as projection operators to appropriate convex sets and solved using a specific projection set algorithm called the ["difference map"](https://opg.optica.org/viewmedia.cfm?r=1&rwjcode=josaa&uri=josaa-20-1-40&html=true) algorithm.
+Back to projection set algorithms, [Veit Elser and co-authors showed](https://www.pnas.org/doi/10.1073/pnas.0606359104) that the Sudoku constraints can be interpreted as projection operators to appropriate non-convex sets and solved using a specific projection set algorithm called the ["difference map"](https://opg.optica.org/viewmedia.cfm?r=1&rwjcode=josaa&uri=josaa-20-1-40&html=true) algorithm.
 We will skip most of the implementation details, but as an example the single-symbol constraint for each tile can be implemented as a projection operator which sets the maximum-value index to 1 and the rest of the elements of the vector to zero, i.e.:
 ``` mathematica {style=friendly}
 projectToUnitVector[vector_]:=UnitVector[9,First@FirstPosition[vector,Max[vector],{1},Heads->False]]
