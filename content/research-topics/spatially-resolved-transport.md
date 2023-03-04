@@ -18,7 +18,7 @@ cover:
 
 ---
 
-During the course of my PhD, I developed an open-source software package called [SpaRTaNS](https://narang-lab.github.io/spartans/) to perform spatially-resolved transport by solving the steady-state Boltzmann transport equation in three real-space and three momentum-space dimensions.
+During the course of my PhD, I developed an open-source software package called [SpaRTaNS](https://gvarnavides.com/spartans-website/) to perform spatially-resolved transport by solving the steady-state Boltzmann transport equation in three real-space and three momentum-space dimensions.
 
 SpaRTaNS is "carrier-agnostic" with applications in phonon (heat) transport (e.g [thermal interface resistance of semi-coherent interfaces]({{< ref "/publications/phys-rev-b-100-115402-2019" >}})), as-well as electron (charge) transport (e.g [the importance of microscopic interactions in electron hydrodynamic flows]({{< ref "/publications/arxiv2204.06004-2022" >}})).
 SpaRTaNS can be run on anything from a laptop to high-performance computing systems, and provides a flexible API for specifying custom boundary conditions, collision operators, geometries, state spaces, and more.
