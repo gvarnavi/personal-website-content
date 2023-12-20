@@ -2,7 +2,7 @@
 
 date: 2022-01-29T14:00:00+06:00
 lastmod: 2022-01-29T14:00:00+06:00
-title: Geograghic Map Distortions
+title: Geographic Map Distortions
 authors: ["georgiosvarnavides"]
 categories:
   - musings
