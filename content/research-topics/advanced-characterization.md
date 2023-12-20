@@ -7,6 +7,7 @@ authors: ["georgiosvarnavides"]
 publications:
   - Nat Commun 12, 1290 (2021)
   - Sci Adv 7, eabi6699 (2021)
+  - Microsc Microanal, 29 (2023)
 slug: advanced-characterization
 comments: true
 thumbnail: /images/research-interest-02.png
