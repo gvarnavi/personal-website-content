@@ -23,3 +23,5 @@ An example such computational essay on the Lennard-Jones interatomic potential u
 
 In the spring of 2022 I was the lead instructor for an MIT-course called _3.029 -- Mathematics and Computational Thinking for Materials Scientists and Engineers I_ where we piloted some of this content to sophomores learning thermodynamics and polymer synthesis.
 The resulting notebooks are freely-available on the [class website](https://dmse-mit.github.io/3029/).
+
+More recently, together with editor-in-chief [Dr. Colin Ophus](https://foundry.lbl.gov/about/staff/colin-ophus/) and the developers at the [Curvenote](https://curvenote.com/) writing platform, I have been developing and editing content for a new interactive journal called [Elemental Microscopy](https://www.elementalmicroscopy.com), which aims to publish focused reviews and tutorials of foundational concepts in microscopy in a dynamic multi-media digital format.
